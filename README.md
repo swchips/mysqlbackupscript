@@ -1,4 +1,5 @@
-# MySQLDump Distribution (mysql backup script)
+# MySQLDump Distribution 
+(shell script version)
 
 
 ## Introduction
