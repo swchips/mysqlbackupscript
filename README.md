@@ -1,6 +1,5 @@
-# mysql backup script
+# MySQLDump Distribution (mysql backup script)
 
-# MySQLDump Distribution
 
 ## Introduction
 This repository serves as a distribution point for MySQLDump, a utility for creating logical backups of MySQL databases. This document outlines guidelines for contributors and users regarding distribution policies, licensing, and usage.
