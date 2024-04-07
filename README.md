@@ -16,7 +16,7 @@ To install MySQLDump, you can clone this repository using Git:
 
 ```bash
 git clone https://github.com/swchips/mysqlbackupscript.git
-
+````
 
 mysql dump script v1.0
 
@@ -30,6 +30,7 @@ To use MySQLDump, follow these steps:
 
 ```bash
 mysqldump -u [username] -p [database_name] > backup.sql
+````
 
 Replace [username] with your MySQL username and [database_name] with the name of the database you want to back up.
 3. Enter your MySQL password when prompted.
