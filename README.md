@@ -1,7 +1,7 @@
 # MySQLDump Distribution 
-Shell script version v1.0&nasp;
-MySQL version 8.0.xx&nasp;
-&nasp;
+Shell script version v1.0 
+MySQL version 8.0.xx 
+ 
 Any Linux OS
 
 ## Introduction
