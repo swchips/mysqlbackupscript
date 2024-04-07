@@ -1,8 +1,8 @@
 # MySQLDump Distribution 
-shell script version v1.0
-mysql version 8.0.xx
+- Shell script version v1.0
+- MySQL version 8.0.xx
 
-Any Linux OS
+- Any Linux OS
 
 ## Introduction
 This repository serves as a distribution point for MySQLDump, a utility for creating logical backups of MySQL databases. This document outlines guidelines for contributors and users regarding distribution policies, licensing, and usage.
