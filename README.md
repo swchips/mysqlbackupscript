@@ -10,13 +10,13 @@ This repository serves as a distribution point for MySQLDump, a utility for crea
 - **Contributors:** [List of Contributors] (YuEun)
 
 ## Licensing
-MySQLDump is distributed under the [YUEUN License] Please review the license before using or distributing this software.
+MySQLDump is distributed under the [License] Please review the license before using or distributing this software.
 
 ## Installation
 To install MySQLDump, you can clone this repository using Git:
 
 ```bash
-git clone
+git clone https://github.com/swchips/mysqlbackupscript.git
 
 
 mysql dump script v1.0
