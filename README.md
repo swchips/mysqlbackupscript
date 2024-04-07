@@ -6,8 +6,8 @@ shell script version v1.0
 This repository serves as a distribution point for MySQLDump, a utility for creating logical backups of MySQL databases. This document outlines guidelines for contributors and users regarding distribution policies, licensing, and usage.
 
 ## Contributors
-- **Maintainer:** [YuEun]
-- **Contributors:** [List of Contributors] (YuEun)
+- **Maintainer:** [Yueun]
+- **Contributors:** [List of Contributors] (Yueun)
 
 ## Licensing
 MySQLDump is distributed under the [License] Please review the license before using or distributing this software.
