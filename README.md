@@ -1,6 +1,8 @@
 # MySQLDump Distribution 
 shell script version v1.0
+mysql version 8.0.xx
 
+Any Linux OS
 
 ## Introduction
 This repository serves as a distribution point for MySQLDump, a utility for creating logical backups of MySQL databases. This document outlines guidelines for contributors and users regarding distribution policies, licensing, and usage.
@@ -19,7 +21,6 @@ To install MySQLDump, you can clone this repository using Git:
 git clone https://github.com/swchips/mysqlbackupscript.git
 ````
 
-mysql dump script v1.0
 
 Alternatively, you can download the source code as a ZIP file from the Releases section.
 
