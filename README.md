@@ -37,7 +37,7 @@ Replace [username] with your MySQL username and [database_name] with the name of
 
 3. Enter your MySQL password when prompted.
 
-1. The backup will be saved in a file named backup.sql in the current directory.
+4. The backup will be saved in a file named backup.sql in the current directory.
 
 ## Issues and Support
 For bug reports, feature requests, or general inquiries, please open an issue on the GitHub repository.
